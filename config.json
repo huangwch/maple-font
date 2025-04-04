@@ -1,13 +1,13 @@
 {
   "$schema": "./source/schema.json",
-  "family_name": "Maple Mono",
+  "family_name": "Maple Mono Custom",
   "use_hinted": true,
   "pool_size": 4,
   "ligature": true,
   "feature_freeze": {
-    "cv01": "ignore",
+    "cv01": "enable",
     "cv02": "ignore",
-    "cv03": "ignore",
+    "cv03": "enable",
     "cv04": "ignore",
     "cv31": "ignore",
     "cv32": "ignore",
